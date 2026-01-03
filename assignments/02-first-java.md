@@ -11,7 +11,7 @@ find Simple Interest.
 (Use if conditions)
 0. Take 2 numbers as input and print the largest number.
 0. Input currency in rupees and output in USD.
-0. To calculate Fibonacci Series up to n numbers.
+0 . To calculate Fibonacci Series up to n numbers.
 8. To find out whether the given String is Palindrome or not.
 0. To find Armstrong Number between two given number.
 
